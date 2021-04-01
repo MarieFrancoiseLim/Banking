@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ilog.rules.studio.model.brl:ActionRule xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ilog.rules.studio.model.brl="http://ilog.rules.studio/model/brl.ecore">
+  <name>init</name>
+  <uuid>77a755fb-bc48-42b4-9158-32d42777acb0</uuid>
+  <locale>en_US</locale>
+  <definition><![CDATA[set decision to 'the shopping cart' ;]]></definition>
+</ilog.rules.studio.model.brl:ActionRule>
