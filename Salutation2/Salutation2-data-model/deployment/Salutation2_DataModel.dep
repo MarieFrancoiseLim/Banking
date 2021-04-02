@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<com.ibm.rules.studio.model.decisionservice:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" ruleAppName="decisions.salutation2:Salutation2_DataModel" ruleAppVersion="1.0.0" packageName="myModel" managingXom="true">
+<com.ibm.rules.studio.model.decisionservice:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" ruleAppName="decisions.salutation2:salutation2-data-model" ruleAppVersion="1.0.0" packageName="myModel" managingXom="true">
   <name>Salutation2_DataModel</name>
-  <uuid>9b54ae66-287a-44de-a0de-0a6f88468b25</uuid>
+  <uuid>0546ec10-05a0-4bce-986f-9c507956dcce</uuid>
   <locales>en_US</locales>
   <versionPolicies label="Increment minor version numbers" ruleset="INCREMENT_MINOR" default="true" recurrent="true">
     <description><![CDATA[Updates the minor version for each ruleset. Makes the new version available but retains previous versions.]]></description>

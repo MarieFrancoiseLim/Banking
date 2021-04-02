@@ -2,13 +2,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>decisions.banking.salutation2</groupId>
+        <groupId>decisions.salutation2</groupId>
         <artifactId>salutation2</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
 
     <groupId>decisions.salutation2</groupId>
-    <artifactId>Salutation2</artifactId>
+    <artifactId>salutation2-dmo</artifactId>
     <version>1.0.0</version>
     <packaging>decision-library</packaging>
 
@@ -32,7 +32,7 @@
 <dependencies>
         <dependency>
             <groupId>decisions.salutation2</groupId>
-            <artifactId>Salutation2_DataModel</artifactId>
+            <artifactId>salutation2-data-model</artifactId>
             <type>decision-library</type>
             <version>1.0.0</version>
         </dependency>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<com.ibm.rules.studio.model.decisionservice:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" ruleAppName="decisions.salutation2:Salutation2" ruleAppVersion="1.0.0" packageName="myModel" managingXom="true">
+<com.ibm.rules.studio.model.decisionservice:Deployment xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionservice="http://com.ibm.rules.studio/model/decisionservice.ecore" ruleAppName="decisions.salutation2:salutation2-dmo" ruleAppVersion="1.0.0" packageName="myModel" managingXom="true">
   <name>Salutation2</name>
-  <uuid>9560a62f-b900-4098-a38d-42b3218aa95f</uuid>
+  <uuid>7aadcba3-1b91-4e4f-9c88-da6789d425a8</uuid>
   <locales>en_US</locales>
   <operations operationName="Salutation2">
-    <operation href="Salutation2.dop#b4dfb418-e81d-45be-9171-b61f9accf21c"/>
+    <operation href="Salutation2.dop#bd98d567-b7be-4537-9478-1399783d9975"/>
     <properties key="ruleset.version">
       <value><![CDATA[1.0]]></value>
     </properties>

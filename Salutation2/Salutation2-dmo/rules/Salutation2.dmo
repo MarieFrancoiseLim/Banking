@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <com.ibm.rules.studio.model.decisionmodel:DecisionModel xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:com.ibm.rules.studio.model.decisionmodel="http://com.ibm.rules.studio/model/decisionmodel.ecore">
   <name>Salutation2</name>
-  <uuid>e30c2e70-7c33-480b-b9a0-50b9ede1b5e4</uuid>
+  <uuid>43a2ab22-2a67-43a4-907e-e1e47d73b3b5</uuid>
   <locale>en_US</locale>
   <definition><definitions xmlns="http://www.omg.org/spec/DMN/20180521/MODEL/" id="Salutation2" name="Salutation2" namespace="">
     <extensionElements>
